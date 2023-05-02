@@ -1,0 +1,18 @@
+[
+    {
+        "id" : "1",
+        "img" : "chef1.jpg",
+        "name" : "Baek Jong-won",
+        "bio" : "Baek Jong-won (born September 4, 1966), sometimes spelled Paik Jong-won, is a South Korean chef.",
+        "likes": "200k",
+        "number of recipes" : "3",
+        "years of experience" : "10",
+        "recipes" : {
+            "recipe name" : "CHICKEN BULGOGI",
+            "ingredients " : "soy sauce, garlic, ginger puree, sesame oil, light brown sugar",
+            "rating" : "5",
+            "button" : "fav"
+        }
+
+    }
+]
