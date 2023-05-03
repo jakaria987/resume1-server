@@ -1,7 +1,7 @@
 [
   {
-    "id": "1",
-    "img": "chef1.jpg",
+    "_id": "1",
+    "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRFTe8GT0qGNRXB4JL4v9PJgm21GcdskTaZcPrvyXx9EDKr67vT",
     "name": "Baek Jong-won",
     "bio": "Baek Jong-won (born September 4, 1966), sometimes spelled Paik Jong-won, is a South Korean chef.",
     "likes": "200k",
@@ -36,8 +36,8 @@
     }
   },
   {
-    "id": "2",
-    "img": "chef2.jpg",
+    "_id": "2",
+    "img": "https://d3h1lg3ksw6i6b.cloudfront.net/media/image/2023/01/16/df565627d76d4b7f9cf939af526090b5_Douglas_Kim_Jeju_Noodle_Bar_credit-Wonwoo_Lee.jpg",
     "name": "Jeong Kwan",
     "bio": "Jeong Kwan, born 1957, is a Seon Buddhist nun and chef of Korean cuisine who gained worldwide recognition and fans for her vegetarian “temple cuisine.",
     "likes": "500k",
@@ -72,8 +72,8 @@
     }
   },
   {
-    "id": "3",
-    "img": "chef3.jpg",
+    "_id": "3",
+    "img": "https://onecms-res.cloudinary.com/image/upload/s--jG_xzLYR--/c_fill,g_auto,h_523,w_693/f_auto,q_auto/chef-sun-kim-of-meta-in-singapore-data.jpg?itok=s576-P0-",
     "name": "Kristen Kish",
     "bio": "Kristen Kish (born December 1, 1983) is a Korean-born American chef known for winning the tenth season of Top Chef.",
     "likes": "300k",
@@ -108,8 +108,8 @@
     }
   },
   {
-    "id": "4",
-    "img": "chef4.jpg",
+    "_id": "4",
+    "img": "https://onecms-res.cloudinary.com/image/upload/s--Cip5U3HP--/c_fill,g_auto,h_523,w_693/f_auto,q_auto/chef-lauren-kim-in-bangkok-data.jpg?itok=rXFhwWzi",
     "name": "Maangchi",
     "bio": "Maangchi: YouTube's Korean Julia Child - NYTimes.com Korean Food Kimchi, Spicy Korean. Maangchi: YouTube's Korean Julia Child",
     "likes": "150k",
@@ -144,8 +144,8 @@
     }
   },
   {
-    "id": "5",
-    "img": "chef5.jpg",
+    "_id": "5",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrjwsqYDRMcRCAbVMWDB6v33g7CI9iq3SgEw&usqp=CAU",
     "name": "Lim Ji-ho",
     "bio": "Lim Ji-ho (born December 1, 1983) is a Korean-born American chef known for winning the tenth season of Top Chef.",
     "likes": "700k",
@@ -180,8 +180,8 @@
     }
   },
   {
-    "id": "6",
-    "img": "chef2.jpg",
+    "_id": "6",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbMucSBmxsTzve32LWPZ4ZLYq5cDowGzVqcg&usqp=CAU",
     "name": "Lee Yeon-bok",
     "bio": "Mokran: Best Chinese in Seoul by celebrity chef Lee Yeon Bok - See 31 traveler reviews, 77 candid photos, and great deals for Seoul, South Korea",
     "likes": "1M",
