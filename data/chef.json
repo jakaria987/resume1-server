@@ -1,218 +1,200 @@
 [
   {
-    "_id": "1",
+    "id": "1",
     "img": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRFTe8GT0qGNRXB4JL4v9PJgm21GcdskTaZcPrvyXx9EDKr67vT",
     "name": "Baek Jong-won",
     "bio": "Baek Jong-won (born September 4, 1966), sometimes spelled Paik Jong-won, is a South Korean chef.",
     "likes": "200k",
-    "number of recipes": "3",
-    "years of experience": "10",
+    "number_of_recipes": 3,
+    "years_of_experience": 10,
     "recipes1": {
-      "recipe name": "CHICKEN BULGOGI",
+      "recipe_name": "CHICKEN BULGOGI",
       "ingredients ": "soy sauce, garlic, ginger puree, sesame oil, light brown sugar",
       "rating": "5",
       "button": "fav",
-      "cooking method": {
-        "cooking-method": "Brush the hot grill grates with oil and lay the chicken on top. Grill for 3-4 minutes each side turning only once.Put an oven shelving at 5-6 inch below the heat source, preheat the oven to broil. Place a greased cooling rack on a large baking sheet (half sheet size), lay the chicken pieces without overlapping. Broil 4-5 minutes on each side. Make sure to keep an eye on your chicken so that you don’t char them too much.Heat a tablespoon of oil on a non-stick surface skillet over high heat, add chicken pieces without crowding the space. You might need to pan-fry chicken in batches. Cook for 3-4 minutes per side until chicken is fully cooked. If the sauce burns and start sticking to the skillet, wipe out with a wet kitchen paper."
-      }
+      "cooking_method": "Brush the hot grill grates with oil and lay the chicken on top. Grill for 3-4 minutes each side turning only once.Put an oven shelving at 5-6 inch below the heat source, preheat the oven to broil. Place a greased cooling rack on a large baking sheet (half sheet size), lay the chicken pieces without overlapping. Broil 4-5 minutes on each side. Make sure to keep an eye on your chicken so that you don’t char them too much.Heat a tablespoon of oil on a non-stick surface skillet over high heat, add chicken pieces without crowding the space. You might need to pan-fry chicken in batches. Cook for 3-4 minutes per side until chicken is fully cooked. If the sauce burns and start sticking to the skillet, wipe out with a wet kitchen paper."
+      
     },
     "recipes2": {
-      "recipe name": "EASY JAPCHAE",
+      "recipe_name": "EASY JAPCHAE",
       "ingredients ": "Onion, Carrot , Pepper , Spinach , Mushroom ",
       "rating": "5",
       "button": "fav",
-      "cooking method": {
-        "cooking-method": "The traditional method requires boiling the noodles separately before adding them to the stir-fry. With this recipe, you can make it all in one pot (skillet).Soak the noodles in hot water for 15 minutes, then drain and set aside. Pre-soaking will soften the noodles and make them easier to cook.Slice beef (or pork) into thin match sticks and season with soy sauce, sugar, and rice wine; set aside.In a mixing bowl, combine all the japchae sauce ingredients, and set aside."
-      }
+      "cooking_method": "The traditional method requires boiling the noodles separately before adding them to the stir-fry. With this recipe, you can make it all in one pot (skillet).Soak the noodles in hot water for 15 minutes, then drain and set aside. Pre-soaking will soften the noodles and make them easier to cook.Slice beef (or pork) into thin match sticks and season with soy sauce, sugar, and rice wine; set aside.In a mixing bowl, combine all the japchae sauce ingredients, and set aside."
+      
     },
     "recipes3": {
-      "recipe name": "DAKGANGJEONG",
+      "recipe_name": "DAKGANGJEONG",
       "ingredients ": "Sugar, Rice vinegar, Ginger paste, Garlic, Ketchup",
       "rating": "5",
       "button": "fav",
-      "cooking method": {
-        "cooking-method": "For the coating mixture, combine cake flour, cornstarch, onion powder, and salt; mix well. Take away 2 tablespoons from the mixture.Put chicken pieces in a mixing bowl. Add the 2 tablespoon of coating mixture to the chicken along with ginger, salt, pepper, beaten egg white, rice wine, and oil. Mix them all together.Put the coating mixture in a zip bag and add the chicken pieces; shake well to coat evenly.Deep-fry chicken in small batches, about 2-3 minutes, until they are lightly golden. As you frying chicken, stir them with metal tongs or a strainer to keep them from sticking to each other. Shake off excess oil as you take the chicken pieces out of the oil.Bring the sauce to boil over medium high heat until it thickens to a glaze consistency, stirring constantly.Add chicken pieces and toss well to coat with the glaze."
-      }
+      "cooking_method": "For the coating mixture, combine cake flour, cornstarch, onion powder, and salt; mix well. Take away 2 tablespoons from the mixture.Put chicken pieces in a mixing bowl. Add the 2 tablespoon of coating mixture to the chicken along with ginger, salt, pepper, beaten egg white, rice wine, and oil. Mix them all together.Put the coating mixture in a zip bag and add the chicken pieces; shake well to coat evenly.Deep-fry chicken in small batches, about 2-3 minutes, until they are lightly golden. As you frying chicken, stir them with metal tongs or a strainer to keep them from sticking to each other. Shake off excess oil as you take the chicken pieces out of the oil.Bring the sauce to boil over medium high heat until it thickens to a glaze consistency, stirring constantly.Add chicken pieces and toss well to coat with the glaze."
+      
     }
   },
   {
-    "_id": "2",
+    "id": "2",
     "img": "https://d3h1lg3ksw6i6b.cloudfront.net/media/image/2023/01/16/df565627d76d4b7f9cf939af526090b5_Douglas_Kim_Jeju_Noodle_Bar_credit-Wonwoo_Lee.jpg",
     "name": "Jeong Kwan",
     "bio": "Jeong Kwan, born 1957, is a Seon Buddhist nun and chef of Korean cuisine who gained worldwide recognition and fans for her vegetarian “temple cuisine.",
     "likes": "500k",
-    "number of recipes": "3",
-    "years of experience": "15",
+    "number_of_recipes": 3,
+    "years_of_experience": 15,
     "recipes1": {
-      "recipe name": "CHICKEN BULGOGI",
+      "recipe_name": "CHICKEN BULGOGI",
       "ingredients ": "soy sauce, garlic, ginger puree, sesame oil, light brown sugar",
       "rating": "5",
       "button": "fav",
-      "cooking method": {
-        "cooking-method": "Brush the hot grill grates with oil and lay the chicken on top. Grill for 3-4 minutes each side turning only once.Put an oven shelving at 5-6 inch below the heat source, preheat the oven to broil. Place a greased cooling rack on a large baking sheet (half sheet size), lay the chicken pieces without overlapping. Broil 4-5 minutes on each side. Make sure to keep an eye on your chicken so that you don’t char them too much.Heat a tablespoon of oil on a non-stick surface skillet over high heat, add chicken pieces without crowding the space. You might need to pan-fry chicken in batches. Cook for 3-4 minutes per side until chicken is fully cooked. If the sauce burns and start sticking to the skillet, wipe out with a wet kitchen paper."
-      }
+      "cooking_method": "Brush the hot grill grates with oil and lay the chicken on top. Grill for 3-4 minutes each side turning only once.Put an oven shelving at 5-6 inch below the heat source, preheat the oven to broil. Place a greased cooling rack on a large baking sheet (half sheet size), lay the chicken pieces without overlapping. Broil 4-5 minutes on each side. Make sure to keep an eye on your chicken so that you don’t char them too much.Heat a tablespoon of oil on a non-stick surface skillet over high heat, add chicken pieces without crowding the space. You might need to pan-fry chicken in batches. Cook for 3-4 minutes per side until chicken is fully cooked. If the sauce burns and start sticking to the skillet, wipe out with a wet kitchen paper."
+      
     },
     "recipes2": {
       "recipe name": "EASY JAPCHAE",
       "ingredients ": "Onion, Carrot , Pepper , Spinach , Mushroom ",
       "rating": "5",
       "button": "fav",
-      "cooking method": {
-        "cooking-method": "The traditional method requires boiling the noodles separately before adding them to the stir-fry. With this recipe, you can make it all in one pot (skillet).Soak the noodles in hot water for 15 minutes, then drain and set aside. Pre-soaking will soften the noodles and make them easier to cook.Slice beef (or pork) into thin match sticks and season with soy sauce, sugar, and rice wine; set aside.In a mixing bowl, combine all the japchae sauce ingredients, and set aside."
-      }
+      "cooking_method":"The traditional method requires boiling the noodles separately before adding them to the stir-fry. With this recipe, you can make it all in one pot (skillet).Soak the noodles in hot water for 15 minutes, then drain and set aside. Pre-soaking will soften the noodles and make them easier to cook.Slice beef (or pork) into thin match sticks and season with soy sauce, sugar, and rice wine; set aside.In a mixing bowl, combine all the japchae sauce ingredients, and set aside."
+      
     },
     "recipes3": {
-      "recipe name": "DAKGANGJEONG",
+      "recipe_name": "DAKGANGJEONG",
       "ingredients ": "Sugar, Rice vinegar, Ginger paste, Garlic, Ketchup",
       "rating": "5",
       "button": "fav",
-      "cooking method": {
-        "cooking-method": "For the coating mixture, combine cake flour, cornstarch, onion powder, and salt; mix well. Take away 2 tablespoons from the mixture.Put chicken pieces in a mixing bowl. Add the 2 tablespoon of coating mixture to the chicken along with ginger, salt, pepper, beaten egg white, rice wine, and oil. Mix them all together.Put the coating mixture in a zip bag and add the chicken pieces; shake well to coat evenly.Deep-fry chicken in small batches, about 2-3 minutes, until they are lightly golden. As you frying chicken, stir them with metal tongs or a strainer to keep them from sticking to each other. Shake off excess oil as you take the chicken pieces out of the oil.Bring the sauce to boil over medium high heat until it thickens to a glaze consistency, stirring constantly.Add chicken pieces and toss well to coat with the glaze."
-      }
+      "cooking_method":"For the coating mixture, combine cake flour, cornstarch, onion powder, and salt; mix well. Take away 2 tablespoons from the mixture.Put chicken pieces in a mixing bowl. Add the 2 tablespoon of coating mixture to the chicken along with ginger, salt, pepper, beaten egg white, rice wine, and oil. Mix them all together.Put the coating mixture in a zip bag and add the chicken pieces; shake well to coat evenly.Deep-fry chicken in small batches, about 2-3 minutes, until they are lightly golden. As you frying chicken, stir them with metal tongs or a strainer to keep them from sticking to each other. Shake off excess oil as you take the chicken pieces out of the oil.Bring the sauce to boil over medium high heat until it thickens to a glaze consistency, stirring constantly.Add chicken pieces and toss well to coat with the glaze."
+      
     }
   },
   {
-    "_id": "3",
+    "id": "3",
     "img": "https://onecms-res.cloudinary.com/image/upload/s--jG_xzLYR--/c_fill,g_auto,h_523,w_693/f_auto,q_auto/chef-sun-kim-of-meta-in-singapore-data.jpg?itok=s576-P0-",
     "name": "Kristen Kish",
     "bio": "Kristen Kish (born December 1, 1983) is a Korean-born American chef known for winning the tenth season of Top Chef.",
     "likes": "300k",
-    "number of recipes": "3",
-    "years of experience": "12",
+    "number_of_recipes": 3,
+    "years_of_experience": 12,
     "recipes1": {
-      "recipe name": "CHICKEN BULGOGI",
+      "recipe_name": "CHICKEN BULGOGI",
       "ingredients ": "soy sauce, garlic, ginger puree, sesame oil, light brown sugar",
       "rating": "5",
       "button": "fav",
-      "cooking method": {
-        "cooking-method": "Brush the hot grill grates with oil and lay the chicken on top. Grill for 3-4 minutes each side turning only once.Put an oven shelving at 5-6 inch below the heat source, preheat the oven to broil. Place a greased cooling rack on a large baking sheet (half sheet size), lay the chicken pieces without overlapping. Broil 4-5 minutes on each side. Make sure to keep an eye on your chicken so that you don’t char them too much.Heat a tablespoon of oil on a non-stick surface skillet over high heat, add chicken pieces without crowding the space. You might need to pan-fry chicken in batches. Cook for 3-4 minutes per side until chicken is fully cooked. If the sauce burns and start sticking to the skillet, wipe out with a wet kitchen paper."
-      }
+      "cooking_method": "Brush the hot grill grates with oil and lay the chicken on top. Grill for 3-4 minutes each side turning only once.Put an oven shelving at 5-6 inch below the heat source, preheat the oven to broil. Place a greased cooling rack on a large baking sheet (half sheet size), lay the chicken pieces without overlapping. Broil 4-5 minutes on each side. Make sure to keep an eye on your chicken so that you don’t char them too much.Heat a tablespoon of oil on a non-stick surface skillet over high heat, add chicken pieces without crowding the space. You might need to pan-fry chicken in batches. Cook for 3-4 minutes per side until chicken is fully cooked. If the sauce burns and start sticking to the skillet, wipe out with a wet kitchen paper."
+      
     },
     "recipes2": {
-      "recipe name": "EASY JAPCHAE",
+      "recipe_name": "EASY JAPCHAE",
       "ingredients ": "Onion, Carrot , Pepper , Spinach , Mushroom ",
       "rating": "5",
       "button": "fav",
-      "cooking method": {
-        "cooking-method": "The traditional method requires boiling the noodles separately before adding them to the stir-fry. With this recipe, you can make it all in one pot (skillet).Soak the noodles in hot water for 15 minutes, then drain and set aside. Pre-soaking will soften the noodles and make them easier to cook.Slice beef (or pork) into thin match sticks and season with soy sauce, sugar, and rice wine; set aside.In a mixing bowl, combine all the japchae sauce ingredients, and set aside."
-      }
+      "cooking_method":"The traditional method requires boiling the noodles separately before adding them to the stir-fry. With this recipe, you can make it all in one pot (skillet).Soak the noodles in hot water for 15 minutes, then drain and set aside. Pre-soaking will soften the noodles and make them easier to cook.Slice beef (or pork) into thin match sticks and season with soy sauce, sugar, and rice wine; set aside.In a mixing bowl, combine all the japchae sauce ingredients, and set aside."
+      
     },
     "recipes3": {
-      "recipe name": "DAKGANGJEONG",
+      "recipe_name": "DAKGANGJEONG",
       "ingredients ": "Sugar, Rice vinegar, Ginger paste, Garlic, Ketchup",
       "rating": "5",
       "button": "fav",
-      "cooking method": {
-        "cooking-method": "For the coating mixture, combine cake flour, cornstarch, onion powder, and salt; mix well. Take away 2 tablespoons from the mixture.Put chicken pieces in a mixing bowl. Add the 2 tablespoon of coating mixture to the chicken along with ginger, salt, pepper, beaten egg white, rice wine, and oil. Mix them all together.Put the coating mixture in a zip bag and add the chicken pieces; shake well to coat evenly.Deep-fry chicken in small batches, about 2-3 minutes, until they are lightly golden. As you frying chicken, stir them with metal tongs or a strainer to keep them from sticking to each other. Shake off excess oil as you take the chicken pieces out of the oil.Bring the sauce to boil over medium high heat until it thickens to a glaze consistency, stirring constantly.Add chicken pieces and toss well to coat with the glaze."
-      }
+      "cooking_method":"For the coating mixture, combine cake flour, cornstarch, onion powder, and salt; mix well. Take away 2 tablespoons from the mixture.Put chicken pieces in a mixing bowl. Add the 2 tablespoon of coating mixture to the chicken along with ginger, salt, pepper, beaten egg white, rice wine, and oil. Mix them all together.Put the coating mixture in a zip bag and add the chicken pieces; shake well to coat evenly.Deep-fry chicken in small batches, about 2-3 minutes, until they are lightly golden. As you frying chicken, stir them with metal tongs or a strainer to keep them from sticking to each other. Shake off excess oil as you take the chicken pieces out of the oil.Bring the sauce to boil over medium high heat until it thickens to a glaze consistency, stirring constantly.Add chicken pieces and toss well to coat with the glaze."
+      
     }
   },
   {
-    "_id": "4",
+    "id": "4",
     "img": "https://onecms-res.cloudinary.com/image/upload/s--Cip5U3HP--/c_fill,g_auto,h_523,w_693/f_auto,q_auto/chef-lauren-kim-in-bangkok-data.jpg?itok=rXFhwWzi",
     "name": "Maangchi",
     "bio": "Maangchi: YouTube's Korean Julia Child - NYTimes.com Korean Food Kimchi, Spicy Korean. Maangchi: YouTube's Korean Julia Child",
     "likes": "150k",
-    "number of recipes": "3",
-    "years of experience": "17",
+    "number_of_recipes": 3,
+    "years_of_experience": 17,
     "recipes1": {
-      "recipe name": "CHICKEN BULGOGI",
+      "recipe_name": "CHICKEN BULGOGI",
       "ingredients ": "soy sauce, garlic, ginger puree, sesame oil, light brown sugar",
       "rating": "5",
       "button": "fav",
-      "cooking method": {
-        "cooking-method": "Brush the hot grill grates with oil and lay the chicken on top. Grill for 3-4 minutes each side turning only once.Put an oven shelving at 5-6 inch below the heat source, preheat the oven to broil. Place a greased cooling rack on a large baking sheet (half sheet size), lay the chicken pieces without overlapping. Broil 4-5 minutes on each side. Make sure to keep an eye on your chicken so that you don’t char them too much.Heat a tablespoon of oil on a non-stick surface skillet over high heat, add chicken pieces without crowding the space. You might need to pan-fry chicken in batches. Cook for 3-4 minutes per side until chicken is fully cooked. If the sauce burns and start sticking to the skillet, wipe out with a wet kitchen paper."
-      }
+      "cooking_method":"Brush the hot grill grates with oil and lay the chicken on top. Grill for 3-4 minutes each side turning only once.Put an oven shelving at 5-6 inch below the heat source, preheat the oven to broil. Place a greased cooling rack on a large baking sheet (half sheet size), lay the chicken pieces without overlapping. Broil 4-5 minutes on each side. Make sure to keep an eye on your chicken so that you don’t char them too much.Heat a tablespoon of oil on a non-stick surface skillet over high heat, add chicken pieces without crowding the space. You might need to pan-fry chicken in batches. Cook for 3-4 minutes per side until chicken is fully cooked. If the sauce burns and start sticking to the skillet, wipe out with a wet kitchen paper."
+      
     },
     "recipes2": {
-      "recipe name": "EASY JAPCHAE",
+      "recipe_name": "EASY JAPCHAE",
       "ingredients ": "Onion, Carrot , Pepper , Spinach , Mushroom ",
       "rating": "5",
       "button": "fav",
-      "cooking method": {
-        "cooking-method": "The traditional method requires boiling the noodles separately before adding them to the stir-fry. With this recipe, you can make it all in one pot (skillet).Soak the noodles in hot water for 15 minutes, then drain and set aside. Pre-soaking will soften the noodles and make them easier to cook.Slice beef (or pork) into thin match sticks and season with soy sauce, sugar, and rice wine; set aside.In a mixing bowl, combine all the japchae sauce ingredients, and set aside."
-      }
+      "cooking_method":"The traditional method requires boiling the noodles separately before adding them to the stir-fry. With this recipe, you can make it all in one pot (skillet).Soak the noodles in hot water for 15 minutes, then drain and set aside. Pre-soaking will soften the noodles and make them easier to cook.Slice beef (or pork) into thin match sticks and season with soy sauce, sugar, and rice wine; set aside.In a mixing bowl, combine all the japchae sauce ingredients, and set aside."
+      
     },
     "recipes3": {
-      "recipe name": "DAKGANGJEONG",
+      "recipe_name": "DAKGANGJEONG",
       "ingredients ": "Sugar, Rice vinegar, Ginger paste, Garlic, Ketchup",
       "rating": "5",
       "button": "fav",
-      "cooking method": {
-        "cooking-method": "For the coating mixture, combine cake flour, cornstarch, onion powder, and salt; mix well. Take away 2 tablespoons from the mixture.Put chicken pieces in a mixing bowl. Add the 2 tablespoon of coating mixture to the chicken along with ginger, salt, pepper, beaten egg white, rice wine, and oil. Mix them all together.Put the coating mixture in a zip bag and add the chicken pieces; shake well to coat evenly.Deep-fry chicken in small batches, about 2-3 minutes, until they are lightly golden. As you frying chicken, stir them with metal tongs or a strainer to keep them from sticking to each other. Shake off excess oil as you take the chicken pieces out of the oil.Bring the sauce to boil over medium high heat until it thickens to a glaze consistency, stirring constantly.Add chicken pieces and toss well to coat with the glaze."
-      }
+      "cooking_method":"For the coating mixture, combine cake flour, cornstarch, onion powder, and salt; mix well. Take away 2 tablespoons from the mixture.Put chicken pieces in a mixing bowl. Add the 2 tablespoon of coating mixture to the chicken along with ginger, salt, pepper, beaten egg white, rice wine, and oil. Mix them all together.Put the coating mixture in a zip bag and add the chicken pieces; shake well to coat evenly.Deep-fry chicken in small batches, about 2-3 minutes, until they are lightly golden. As you frying chicken, stir them with metal tongs or a strainer to keep them from sticking to each other. Shake off excess oil as you take the chicken pieces out of the oil.Bring the sauce to boil over medium high heat until it thickens to a glaze consistency, stirring constantly.Add chicken pieces and toss well to coat with the glaze."
+      
     }
   },
   {
-    "_id": "5",
+    "id": "5",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrjwsqYDRMcRCAbVMWDB6v33g7CI9iq3SgEw&usqp=CAU",
     "name": "Lim Ji-ho",
     "bio": "Lim Ji-ho (born December 1, 1983) is a Korean-born American chef known for winning the tenth season of Top Chef.",
     "likes": "700k",
-    "number of recipes": "3",
-    "years of experience": "26",
+    "number_of_recipes": 3,
+    "years_of_experience": 26,
     "recipes1": {
-      "recipe name": "CHICKEN BULGOGI",
+      "recipe_name": "CHICKEN BULGOGI",
       "ingredients ": "soy sauce, garlic, ginger puree, sesame oil, light brown sugar",
       "rating": "5",
       "button": "fav",
-      "cooking method": {
-        "cooking-method": "Brush the hot grill grates with oil and lay the chicken on top. Grill for 3-4 minutes each side turning only once.Put an oven shelving at 5-6 inch below the heat source, preheat the oven to broil. Place a greased cooling rack on a large baking sheet (half sheet size), lay the chicken pieces without overlapping. Broil 4-5 minutes on each side. Make sure to keep an eye on your chicken so that you don’t char them too much.Heat a tablespoon of oil on a non-stick surface skillet over high heat, add chicken pieces without crowding the space. You might need to pan-fry chicken in batches. Cook for 3-4 minutes per side until chicken is fully cooked. If the sauce burns and start sticking to the skillet, wipe out with a wet kitchen paper."
-      }
+      "cooking_method":"Brush the hot grill grates with oil and lay the chicken on top. Grill for 3-4 minutes each side turning only once.Put an oven shelving at 5-6 inch below the heat source, preheat the oven to broil. Place a greased cooling rack on a large baking sheet (half sheet size), lay the chicken pieces without overlapping. Broil 4-5 minutes on each side. Make sure to keep an eye on your chicken so that you don’t char them too much.Heat a tablespoon of oil on a non-stick surface skillet over high heat, add chicken pieces without crowding the space. You might need to pan-fry chicken in batches. Cook for 3-4 minutes per side until chicken is fully cooked. If the sauce burns and start sticking to the skillet, wipe out with a wet kitchen paper."
+      
     },
     "recipes2": {
-      "recipe name": "EASY JAPCHAE",
+      "recipe_name": "EASY JAPCHAE",
       "ingredients ": "Onion, Carrot , Pepper , Spinach , Mushroom ",
       "rating": "5",
       "button": "fav",
-      "cooking method": {
-        "cooking-method": "The traditional method requires boiling the noodles separately before adding them to the stir-fry. With this recipe, you can make it all in one pot (skillet).Soak the noodles in hot water for 15 minutes, then drain and set aside. Pre-soaking will soften the noodles and make them easier to cook.Slice beef (or pork) into thin match sticks and season with soy sauce, sugar, and rice wine; set aside.In a mixing bowl, combine all the japchae sauce ingredients, and set aside."
-      }
+      "cooking_method":"The traditional method requires boiling the noodles separately before adding them to the stir-fry. With this recipe, you can make it all in one pot (skillet).Soak the noodles in hot water for 15 minutes, then drain and set aside. Pre-soaking will soften the noodles and make them easier to cook.Slice beef (or pork) into thin match sticks and season with soy sauce, sugar, and rice wine; set aside.In a mixing bowl, combine all the japchae sauce ingredients, and set aside."
+      
     },
     "recipes3": {
-      "recipe name": "DAKGANGJEONG",
+      "recipe_name": "DAKGANGJEONG",
       "ingredients ": "Sugar, Rice vinegar, Ginger paste, Garlic, Ketchup",
       "rating": "5",
       "button": "fav",
-      "cooking method": {
-        "cooking-method": "For the coating mixture, combine cake flour, cornstarch, onion powder, and salt; mix well. Take away 2 tablespoons from the mixture.Put chicken pieces in a mixing bowl. Add the 2 tablespoon of coating mixture to the chicken along with ginger, salt, pepper, beaten egg white, rice wine, and oil. Mix them all together.Put the coating mixture in a zip bag and add the chicken pieces; shake well to coat evenly.Deep-fry chicken in small batches, about 2-3 minutes, until they are lightly golden. As you frying chicken, stir them with metal tongs or a strainer to keep them from sticking to each other. Shake off excess oil as you take the chicken pieces out of the oil.Bring the sauce to boil over medium high heat until it thickens to a glaze consistency, stirring constantly.Add chicken pieces and toss well to coat with the glaze."
-      }
+      "cooking_method":"For the coating mixture, combine cake flour, cornstarch, onion powder, and salt; mix well. Take away 2 tablespoons from the mixture.Put chicken pieces in a mixing bowl. Add the 2 tablespoon of coating mixture to the chicken along with ginger, salt, pepper, beaten egg white, rice wine, and oil. Mix them all together.Put the coating mixture in a zip bag and add the chicken pieces; shake well to coat evenly.Deep-fry chicken in small batches, about 2-3 minutes, until they are lightly golden. As you frying chicken, stir them with metal tongs or a strainer to keep them from sticking to each other. Shake off excess oil as you take the chicken pieces out of the oil.Bring the sauce to boil over medium high heat until it thickens to a glaze consistency, stirring constantly.Add chicken pieces and toss well to coat with the glaze."
+      
     }
   },
   {
-    "_id": "6",
+    "id": "6",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbMucSBmxsTzve32LWPZ4ZLYq5cDowGzVqcg&usqp=CAU",
     "name": "Lee Yeon-bok",
     "bio": "Mokran: Best Chinese in Seoul by celebrity chef Lee Yeon Bok - See 31 traveler reviews, 77 candid photos, and great deals for Seoul, South Korea",
     "likes": "1M",
-    "number of recipes": "3",
-    "years of experience": "30",
+    "number_of_recipes": 3,
+    "years_of_experience": 30,
     "recipes1": {
-      "recipe name": "CHICKEN BULGOGI",
+      "recipe_name": "CHICKEN BULGOGI",
       "ingredients ": "soy sauce, garlic, ginger puree, sesame oil, light brown sugar",
       "rating": "5",
       "button": "fav",
-      "cooking method": {
-        "cooking-method": "Brush the hot grill grates with oil and lay the chicken on top. Grill for 3-4 minutes each side turning only once.Put an oven shelving at 5-6 inch below the heat source, preheat the oven to broil. Place a greased cooling rack on a large baking sheet (half sheet size), lay the chicken pieces without overlapping. Broil 4-5 minutes on each side. Make sure to keep an eye on your chicken so that you don’t char them too much.Heat a tablespoon of oil on a non-stick surface skillet over high heat, add chicken pieces without crowding the space. You might need to pan-fry chicken in batches. Cook for 3-4 minutes per side until chicken is fully cooked. If the sauce burns and start sticking to the skillet, wipe out with a wet kitchen paper."
-      }
+      "cooking_method":"Brush the hot grill grates with oil and lay the chicken on top. Grill for 3-4 minutes each side turning only once.Put an oven shelving at 5-6 inch below the heat source, preheat the oven to broil. Place a greased cooling rack on a large baking sheet (half sheet size), lay the chicken pieces without overlapping. Broil 4-5 minutes on each side. Make sure to keep an eye on your chicken so that you don’t char them too much.Heat a tablespoon of oil on a non-stick surface skillet over high heat, add chicken pieces without crowding the space. You might need to pan-fry chicken in batches. Cook for 3-4 minutes per side until chicken is fully cooked. If the sauce burns and start sticking to the skillet, wipe out with a wet kitchen paper."
+      
     },
     "recipes2": {
-      "recipe name": "EASY JAPCHAE",
+      "recipe_name": "EASY JAPCHAE",
       "ingredients ": "Onion, Carrot , Pepper , Spinach , Mushroom ",
       "rating": "5",
       "button": "fav",
-      "cooking method": {
-        "cooking-method": "The traditional method requires boiling the noodles separately before adding them to the stir-fry. With this recipe, you can make it all in one pot (skillet).Soak the noodles in hot water for 15 minutes, then drain and set aside. Pre-soaking will soften the noodles and make them easier to cook.Slice beef (or pork) into thin match sticks and season with soy sauce, sugar, and rice wine; set aside.In a mixing bowl, combine all the japchae sauce ingredients, and set aside."
-      }
+      "cooking_method":"The traditional method requires boiling the noodles separately before adding them to the stir-fry. With this recipe, you can make it all in one pot (skillet).Soak the noodles in hot water for 15 minutes, then drain and set aside. Pre-soaking will soften the noodles and make them easier to cook.Slice beef (or pork) into thin match sticks and season with soy sauce, sugar, and rice wine; set aside.In a mixing bowl, combine all the japchae sauce ingredients, and set aside."
+      
     },
     "recipes3": {
-      "recipe name": "DAKGANGJEONG",
+      "recipe_name": "DAKGANGJEONG",
       "ingredients ": "Sugar, Rice vinegar, Ginger paste, Garlic, Ketchup",
       "rating": "5",
       "button": "fav",
-      "cooking method": {
-        "cooking-method": "For the coating mixture, combine cake flour, cornstarch, onion powder, and salt; mix well. Take away 2 tablespoons from the mixture.Put chicken pieces in a mixing bowl. Add the 2 tablespoon of coating mixture to the chicken along with ginger, salt, pepper, beaten egg white, rice wine, and oil. Mix them all together.Put the coating mixture in a zip bag and add the chicken pieces; shake well to coat evenly.Deep-fry chicken in small batches, about 2-3 minutes, until they are lightly golden. As you frying chicken, stir them with metal tongs or a strainer to keep them from sticking to each other. Shake off excess oil as you take the chicken pieces out of the oil.Bring the sauce to boil over medium high heat until it thickens to a glaze consistency, stirring constantly.Add chicken pieces and toss well to coat with the glaze."
+      "cooking_method": "For the coating mixture, combine cake flour, cornstarch, onion powder, and salt; mix well. Take away 2 tablespoons from the mixture.Put chicken pieces in a mixing bowl. Add the 2 tablespoon of coating mixture to the chicken along with ginger, salt, pepper, beaten egg white, rice wine, and oil. Mix them all together.Put the coating mixture in a zip bag and add the chicken pieces; shake well to coat evenly.Deep-fry chicken in small batches, about 2-3 minutes, until they are lightly golden. As you frying chicken, stir them with metal tongs or a strainer to keep them from sticking to each other. Shake off excess oil as you take the chicken pieces out of the oil.Bring the sauce to boil over medium high heat until it thickens to a glaze consistency, stirring constantly.Add chicken pieces and toss well to coat with the glaze."
       }
     }
-  }
+  
 ]
